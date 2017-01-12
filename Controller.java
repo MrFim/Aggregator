@@ -19,17 +19,3 @@ public class Controller
         model.selectCity(cityName);
     }
 }
-//    List<Vacancy> list = new ArrayList<>();
-//try
-//        {
-//        for (Provider p : providers)
-//        {
-//        for (Vacancy v : p.getJavaVacancies("Java"))
-//        {
-//        list.add(v);
-//        }
-//        }
-//        }
-//        catch (Exception e)
-//        {
-//        }
